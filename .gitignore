@@ -1,0 +1,19 @@
+#Compiled rust
+*.o
+*.so
+*.rlib
+*.dll
+
+#Executable
+*.exe
+
+#Cargo
+/target/
+
+#Vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+.un~
+Session.vim
+.netrwhist
+*~

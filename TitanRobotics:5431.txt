@@ -1,0 +1,1 @@
+{"name":"Titan Robotics","num":"5431","match_num":0,"notes":"","stacked_height":6,"bin_stacked_height":0,"other_bin_stacked_height":0,"chute_used":true,"alternate_platform":false,"steal_bins":false,"throw_noodles":false,"fill_bin":false,"coop":false,"auto":true,"toteset":false}
